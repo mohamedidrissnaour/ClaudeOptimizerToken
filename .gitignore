@@ -1,0 +1,24 @@
+# Environnements et fichiers propres à la machine
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+*.log
+*.lnk
+
+# Anciens artefacts de distribution Windows
+/build/
+/dist/
+/app/
+*.exe
+/Build-TokenOptimizer.ps1
+/TokenOptimizer.spec
+/requirements-build.txt
+/start.py
+
+# Notes de travail et icônes extraites de l'installation locale
+/docs/superpowers/
+/token_optimizer/assets/claude.ico
+/token_optimizer/assets/claude.png

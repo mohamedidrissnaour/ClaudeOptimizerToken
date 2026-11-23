@@ -1,0 +1,3 @@
+PySide6-Essentials==6.12.0
+comtypes==1.5.0
+tiktoken==0.13.0

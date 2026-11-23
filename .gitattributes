@@ -1,0 +1,2 @@
+# Le compteur vérifie le SHA-256 du fichier octet par octet.
+/token_optimizer/assets/claude-historical.json -text
